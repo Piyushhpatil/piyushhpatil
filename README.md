@@ -1,5 +1,5 @@
-## Hi there 👋
-# I'm Piyush Patil (0x0Virtex)
+## Hi there
+# I'm Piyush Patil
 
 **Offensive security researcher building tools that turn threat data into actionable intelligence.**
 
@@ -40,7 +40,3 @@ attack and the detection/hardening that follows.
 - Submitting the JumpList research to a BSides / conference CFP
 
 ---
-
-🌐 Portfolio & writeups → https://0x0Virtex.dev
-🐦 Infosec talk → https://x.com/0x0Virtex
-💼 LinkedIn → https://linkedin.com/in/piyushhpatil
